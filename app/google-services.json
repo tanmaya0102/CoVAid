@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78489306200",
+    "firebase_url": "https://covaid-56cb1.firebaseio.com",
+    "project_id": "covaid-56cb1",
+    "storage_bucket": "covaid-56cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78489306200:android:062b22ef534058162e762d",
+        "android_client_info": {
+          "package_name": "com.tanmaya.covaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78489306200-1b9nndgvvcjocvcjnmag8pj5jrj6apsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanmaya.covaid",
+            "certificate_hash": "0249f8c9271729499d5036f9e15f1a29149bcf7b"
+          }
+        },
+        {
+          "client_id": "78489306200-tqqsatc52murqua6h5i95o0trd6enj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRuOelR5Wlsjj2EaiRSBzP8v4ag_KA5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78489306200-tqqsatc52murqua6h5i95o0trd6enj3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
